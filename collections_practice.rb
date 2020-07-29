@@ -18,7 +18,7 @@ end
 
 
 def sort_array_asc (array)
-  sort_array_asc
+  array.sort
 end
 
 
