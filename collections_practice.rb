@@ -17,7 +17,7 @@ end
 
 
 
-def reverse_array (array)
+def sort_array_asc (array)
   sort_array_asc
 end
 
